@@ -63,3 +63,6 @@ gem 'rails-controller-testing', group: [ :test ]
 gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary'
+
+gem 'carrierwave', '~> 1.2'
